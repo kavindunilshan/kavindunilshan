@@ -25,8 +25,6 @@
 - [A Comprehensive Guide to Upgrading from JBoss EAP 7.4](https://medium.com/@kavindunilshanliyanage/a-comprehensive-guide-to-upgrading-from-jboss-eap-7-4-cbe0b63129de)
 
 > Check out all my blogs on [Medium](https://medium.com/@kavindunilshanliyanage)
->
-> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindunilshan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
 ### 🤝 Connect With Me
 <p align="left">
