@@ -18,7 +18,7 @@
 ### 📂 Highlights
 - **[SpendWise](https://github.com/kavindunilshan/spendWise)**: A personal expense tracker with advanced insights and features like admin advice with Okta Auth0 RBAC.
 - **[WatchMovie](https://github.com/kavindunilshan/watchMovie)**: A movie recommendation system using React, Spring Boot, and Python.
-- **[Tour Planner](https://github.com/kavindunilshan/invex-pro-frontend)**: A inventory management system.
+- **[Invex Pro](https://github.com/kavindunilshan/invex-pro-fo)**: A inventory management system.
 - I love learning new technologies and contributing to open-source projects, including [Grafana](https://github.com/grafana/grafana).
  ### Latest blog post
 - [Dockerizing and Deploying a Full-Stack Application with Vite, React, and Spring Boot on Kubernetes](https://medium.com/@kavindunilshanliyanage/dockerizing-and-deploying-a-full-stack-application-with-vite-react-and-spring-boot-on-kubernetes-96b810e90ff2)
